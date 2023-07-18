@@ -1,2 +1,2 @@
 # Gerenciado-tarefas
-Este **Projeto** foi bem *desafiador*.
+- [x] Este **Projeto** foi bem *desafiador*.
